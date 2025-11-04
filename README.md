@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/ritik-choudhary-02373619b/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <a href="https://github.com/ritikchoudhary7470">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="ritikchoudhary74703@gmail.com">
@@ -112,7 +112,7 @@
 ---
 
 #### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
+[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/Ritik123/EcomerceFrontend)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
 
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
@@ -130,7 +130,7 @@ A complete **e-commerce web application** where users can browse products, add t
 
 #### 🎓StudyAdda (Ed-Tech Platform)
 
-[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd)
+[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/Ritik123/EdTechFrontEnd)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
 
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
@@ -147,7 +147,7 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 ---
 
 #### 💼 ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
+[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/Ritik123/ApplySeekerFrontend)
 [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
 
 A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
@@ -165,11 +165,11 @@ A **Job Platform** designed to help job seekers find and apply to opportunities 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagmohan123&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagmohan123&theme=tokyonight" height="160" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik123&show_icons=true&theme=tokyonight" height="160" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik123&theme=tokyonight" height="160" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmohan123&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik123&layout=compact&theme=tokyonight" height="150" alt="top languages"/>
 </p>
 
 ---
